@@ -6,7 +6,7 @@ Atmosphere's Module for Native Comet Support. Those modules are shared between A
 ```xml
     <dependency>
          <groupId>org.atmosphere</groupId>
-         <artifactId>compat-{tomcat|tomcat7|jbossweb}</artifactId>
+         <artifactId>atmosphere-compat-{tomcat|tomcat7|jbossweb}</artifactId>
          <version>2.0.0</version>
     </dependency>
 ```
