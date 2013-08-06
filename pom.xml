@@ -263,9 +263,9 @@
         </profile>
     </profiles>
     <modules>
-        <module>modules/compat-jbossweb</module>
         <module>modules/compat-tomcat</module>
         <module>modules/compat-tomcat7</module>
+        <module>modules/compat-jbossweb</module>
     </modules>
     <reporting>
         <outputDirectory>target/site</outputDirectory>
