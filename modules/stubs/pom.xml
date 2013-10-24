@@ -10,7 +10,7 @@
     <groupId>org.atmosphere</groupId>
     <artifactId>atmosphere-stubs</artifactId>
     <packaging>bundle</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>atmosphere-weblogic-stub</name>
     <url>https://github.com/Atmosphere/atmosphere</url>
     <build>
